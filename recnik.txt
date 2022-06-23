@@ -1,0 +1,21 @@
+GP - games played
+gs -game started
+MIN - minnutes played
+FGM - Field Goals Made
+FGA - Field Goals Attempted
+FG_PCT - Field Goal Percentage
+fg3m - 3 Point Field Goals Made
+fg3a - 3 Point Field Goals Attempted
+fg3_pct - 3 Point Field Goals Percentage
+ftm - Free Throws Made
+fta - Free Throws Attempted
+ft_pct - Free Throw Percentage
+oreb - Offensive Rebounds
+dreb - Defensive Rebounds
+reb - Rebounds
+ast - Assists
+stl - Steals
+blk - Blocks
+tov - Turnovers
+pf - Personal Fouls
+pts - Points
